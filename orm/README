@@ -1,0 +1,7 @@
+
+# changes:
+
+- Enable the chidls to inherit the parent associations,
+- initialize method to initialize the fileds
+- iniherit associations, _iniherit_asso = TRUE
+- multiple validation plans

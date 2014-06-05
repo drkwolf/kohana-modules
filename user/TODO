@@ -1,0 +1,4 @@
+mv user_switcher to dev module; ?
+extend Controller_Template2 must be changed
+move classes :
+orm, auth, appform to thier own module
